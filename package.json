@@ -1,6 +1,12 @@
 {
   "devDependencies": {
     "@tsconfig/strictest": "^2.0.2",
+    "@types/lodash-es": "^4.17.10",
+    "@types/node": "^20.8.9",
+    "fast-check": "^3.13.2",
+    "lodash-es": "^4.17.21",
+    "mocha": "^10.2.0",
+    "tsx": "^3.14.0",
     "typescript": "^5.2.2"
   },
   "private": true,
