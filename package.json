@@ -11,6 +11,8 @@
   },
   "private": true,
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "pretest": "npm run build",
+    "test": "mocha --require tsx index.test.ts"
   }
 }
