@@ -3,5 +3,8 @@
     "@tsconfig/strictest": "^2.0.2",
     "typescript": "^5.2.2"
   },
-  "private": true
+  "private": true,
+  "scripts": {
+    "build": "tsc"
+  }
 }
